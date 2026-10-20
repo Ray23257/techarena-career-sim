@@ -1,0 +1,6 @@
+{
+  "team": "The Raytirement Plan",
+  "name": "Career Survival MVP",
+  "mode": "agent",
+  "instruction": "Follow the installed career-survival Skill and official Career Emulator MCP interface. Complete one game by observing before each action, selecting only a currently valid choice, including notes, and checking the action result. Continue until the environment reports an ending, then report its ending score. Do not invent hidden state, action effects, thresholds, or numerical score weights."
+}

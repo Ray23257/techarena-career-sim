@@ -222,4 +222,13 @@ __marimo__/
 
 # Output & submission for TechArena Career Survival Agent
 .career_sim_runner/
-solution/
+
+# Local review archives and runtime backups (keep outside Git)
+backups/
+*.zip
+v*-review/
+v*-review-report.md
+v*-strategy-review.zip
+v*-strategy-report.md
+run4-v040-review*/
+v03-to-v031.diff

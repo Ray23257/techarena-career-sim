@@ -1,0 +1,186 @@
+{
+  "generated_at": "2026-10-20T21:35:03.676808+00:00",
+  "active_version": "v0.3.3",
+  "versions": {
+    "v0.2": {
+      "status": "historical",
+      "files": [
+        {
+          "path": "solution/design/decision_report.md",
+          "size": 3704,
+          "sha256": "7b0e201d6679c4c15eb5b55a355f1418681bd76c9bce8c41215c62256f6cbeba"
+        },
+        {
+          "path": "solution/design/skills_design.md",
+          "size": 3065,
+          "sha256": "dee70a57edcc529cdd615b86e60be5241eba78e454d1d8eb1fbd945d1ce375ce"
+        },
+        {
+          "path": "solution/manifest.json",
+          "size": 501,
+          "sha256": "7d9b99f1ec4e279739bc726329aee925efe25c2ff37e3a623c9d2727257ddc68"
+        },
+        {
+          "path": "solution/README.md",
+          "size": 2051,
+          "sha256": "c502796937251d9d107ebb33043a94494f4731cac5b855b92b4a74d5894b7f95"
+        },
+        {
+          "path": "solution/skills/career-survival/SKILL.md",
+          "size": 5759,
+          "sha256": "625b21aa05f54462fe123d872daf40ece353dfc8f1fd6491cb422f21372b5514"
+        }
+      ]
+    },
+    "v0.3": {
+      "status": "historical",
+      "files": [
+        {
+          "path": "solution/design/decision_report.md",
+          "size": 6813,
+          "sha256": "b4981fe6119510315d0e8f24f20819dfabe2fe65241863c2be5ad7d7e2cd7d3b"
+        },
+        {
+          "path": "solution/design/skills_design.md",
+          "size": 8233,
+          "sha256": "5449388f922eee7bf1b20921b24f320b17597c1877a34f89f278eb273efa97c7"
+        },
+        {
+          "path": "solution/manifest.json",
+          "size": 1775,
+          "sha256": "1ff82b7b33c449238172ae6b4fc35a31bf9dd41e7078e0d1c4918aea829eba12"
+        },
+        {
+          "path": "solution/README.md",
+          "size": 4410,
+          "sha256": "9ea1619c3ea43e2126dc40668e1327e41ab549de0ec7110f243ff4723e9002e0"
+        },
+        {
+          "path": "solution/skills/career-controller/SKILL.md",
+          "size": 10256,
+          "sha256": "2a2e80115f72d21d4597506a973a01bca2aaa32365ba10f5503b97bb6cb0ba5c"
+        },
+        {
+          "path": "solution/skills/career-planning/SKILL.md",
+          "size": 5313,
+          "sha256": "fb65958779a789c284440982d5a1938753d05026e0c2f0cd7840e6603d6cc04c"
+        },
+        {
+          "path": "solution/skills/resource-optimisation/SKILL.md",
+          "size": 4470,
+          "sha256": "f24c103612f8d74990386c9c44f7f6f19f67324199ae66f4c66e6cf2862af8d7"
+        },
+        {
+          "path": "solution/skills/risk-management/SKILL.md",
+          "size": 5209,
+          "sha256": "ae859c195ee133a3363baa6974c6326721e7aeb6c23de445c4b016678745ffcb"
+        }
+      ]
+    },
+    "v0.3.3": {
+      "status": "active",
+      "files": [
+        {
+          "path": "REVIEW.md",
+          "size": 42857,
+          "sha256": "0d35c72aab153e774d8e480bc049e1728b5fe279bdc142c15d95ba0891fe9954"
+        },
+        {
+          "path": "solution/design/decision_report.md",
+          "size": 17223,
+          "sha256": "915aeb3da626cc1c2721b7b6732a00c2f2782cc02d4cd3bec1f259f73932edec"
+        },
+        {
+          "path": "solution/design/skills_design.md",
+          "size": 16941,
+          "sha256": "f5ea43c287a7a596a4f4cc6c2a92947dec6d2cbc1c9b597f10b1835445d7bb4f"
+        },
+        {
+          "path": "solution/manifest.json",
+          "size": 2977,
+          "sha256": "098c5f503dfb84d1a3f9dc23af7fef399deb059d46778007b16eb7e6680aa943"
+        },
+        {
+          "path": "solution/README.md",
+          "size": 8180,
+          "sha256": "dd6b1f43aab72c2f914873f7386b3194468373c53b6f0a67a2b2b2adaf276270"
+        },
+        {
+          "path": "solution/skills/career-controller/SKILL.md",
+          "size": 19791,
+          "sha256": "f0b2138f07144bf0d77e5bf69096c9d39bfae23251a995828ac3527b740db8e4"
+        },
+        {
+          "path": "solution/skills/career-planning/SKILL.md",
+          "size": 10028,
+          "sha256": "e7271fee67833a8bcbcef3a427d92de084d7ec12dce7d1d8e1a4bbb02d0209b4"
+        },
+        {
+          "path": "solution/skills/resource-optimisation/SKILL.md",
+          "size": 5235,
+          "sha256": "0447df5d7746cf9eed66d02943352a726f02c4f30bb3f35e817d6708f64efabd"
+        },
+        {
+          "path": "solution/skills/risk-management/SKILL.md",
+          "size": 5209,
+          "sha256": "ae859c195ee133a3363baa6974c6326721e7aeb6c23de445c4b016678745ffcb"
+        }
+      ]
+    },
+    "v0.4-experiment": {
+      "status": "failed-experiment",
+      "files": [
+        {
+          "path": "FOURTH_GAME_REPORT.md",
+          "size": 1316,
+          "sha256": "b8953edc01515c39ce7d47e688ee24925b5169319657bbd9e63ea395d541720d"
+        },
+        {
+          "path": "solution/design/decision_report.md",
+          "size": 23249,
+          "sha256": "ff36a1b43e873745b11d5a9c7a8c620baff23fe132cdeb2f08febee45e077a26"
+        },
+        {
+          "path": "solution/design/skills_design.md",
+          "size": 18947,
+          "sha256": "16b42d44bf6a2929bc4aaaa8fff0f55521bebc0bb4dd81bacb141ce43dc699ce"
+        },
+        {
+          "path": "solution/manifest.json",
+          "size": 2995,
+          "sha256": "527d1442d386ca06e919d5302c1c772c3ec31b5d0dea6c237676d764901c1fb5"
+        },
+        {
+          "path": "solution/README.md",
+          "size": 8410,
+          "sha256": "6c717c9bac64e1f437eddc5a3c7b292e2117fad9f4fb177c0920358d0225b1c4"
+        },
+        {
+          "path": "solution/skills/career-controller/SKILL.md",
+          "size": 19791,
+          "sha256": "f0b2138f07144bf0d77e5bf69096c9d39bfae23251a995828ac3527b740db8e4"
+        },
+        {
+          "path": "solution/skills/career-planning/SKILL.md",
+          "size": 15603,
+          "sha256": "22cc2ea1211b6801308cbf3b52e86f0f4a378eff79616e97d0f43c5e4af58373"
+        },
+        {
+          "path": "solution/skills/resource-optimisation/SKILL.md",
+          "size": 8409,
+          "sha256": "0c9cfc0e2da47a95a904149c476435e1391c623696f70d8e9f11fc65367fe31d"
+        },
+        {
+          "path": "solution/skills/risk-management/SKILL.md",
+          "size": 5209,
+          "sha256": "ae859c195ee133a3363baa6974c6326721e7aeb6c23de445c4b016678745ffcb"
+        },
+        {
+          "path": "STRATEGY_REPORT.md",
+          "size": 6311,
+          "sha256": "3597d549f9cfec8a2f8cdbf3a864d2c094b4af4ce741323e261c0c2e75bec926"
+        }
+      ]
+    }
+  }
+}
