@@ -47,11 +47,11 @@ Run 05 selected Key Project in all 16 quarterly Main Action phases. Key Project 
 ## 4. Repeated Energy actions and marginal utility
 
 The Run 05 audit records:
-- At M15, three Prepare Report actions: Output rose from 5 to 6; the next two repeats had no additional immediate gain.
-- At M33, three Prepare Report actions: Output rose from 15 to 16; the next two repeats had no additional immediate gain.
+- At M15, three Prepare Report actions: Output rose from 5 to 6; the next two repeats had no additional immediate visible gain.
+- At M33, three Prepare Report actions: Output rose from 15 to 16; the next two repeats had no additional immediate visible gain.
 - Defuse legacy risk at M27, M39 and M45 cost 2 Energy and had no immediate visible attribute change.
 
-This is stronger evidence of low marginal efficiency than a general claim that the model always wastes Health Recovery. The decision rule should stop repeating an action when the latest observation shows no incremental effect, unless a separately evidenced delayed effect justifies it.
+This is stronger evidence of low marginal efficiency than a general claim that the model always wastes Health Recovery. The decision rule should stop repeating an action when the latest observation shows no incremental visible effect, unless a separately evidenced delayed benefit justifies it. The logs do not establish whether any hidden delayed benefit existed.
 
 ## 5. Important correction: final Health score does not prove cap-waste
 
@@ -65,11 +65,17 @@ The Run 05 event trace shows the state immediately before the landmine event at 
 
 It does **not** prove which earlier choice caused the event, or that any single Defuse action would have prevented it. The visible record shows several Defuse actions, yet the risk event still occurred. The next audit should examine whether the risk ledger represented multiple unresolved risks and whether mitigation status was verified after each intervention.
 
-## 7. Next testable changes
+## 7. Cross-Skill handoff and feedback-loop evidence
+
+The Run 05 audit records one successful Skill read for each of the four Skills. Later HR warnings and risk changes occurred during the game, but the trace does not show a fresh Risk Management Skill read after those later warnings. The Controller's routing rule calls for reloading Risk Management when risk status is unresolved or its context is missing. This is a trace-level compliance gap to investigate; it does not prove the Skill body was unavailable in the model's context, but it means the logs do not demonstrate a fresh risk reassessment at those points.
+
+The actual action pattern also suggests weak end-to-end replanning: Career Planning repeatedly chose Key Project, Resource Optimisation repeated Prepare Report even after zero immediate visible gains, and Risk Management selected Defuse on several warning windows. Those actions can complement one another, but the run does not show a reliable shared stop condition or a verified post-mitigation risk status. The problem is better described as **insufficiently enforced coordination and feedback**, not proven contradictory Skill text.
+
+## 8. Next testable changes
 
 1. **Action repetition gate:** after every action, observe again and compare actual before/after state. If marginal gain is zero, do not repeat the same action unless the agent names a concrete delayed benefit and a check that can validate it.
 2. **Promotion feedback pivot:** after a missed promotion or repeated “clearer outcomes” feedback, require a fresh diagnosis of delivery, visibility, scope, relationships and risk before choosing another Main Action.
-3. **Risk accumulation audit:** preserve each distinct risk source, urgency, mitigation attempt and verification result. One Defuse action must not be treated as proof that every legacy risk is cleared.
+3. **Risk accumulation audit:** preserve each distinct risk source, urgency, mitigation attempt and verification result. One Defuse action must not be treated as proof that every legacy risk is cleared; new warnings should trigger an explicit Risk Management reassessment.
 4. **Cap-aware resource allocation:** calculate marginal gain after caps and costs; a final score of 20/20 is not a substitute for quarter-by-quarter state inspection.
 
 ## Evidence limits
