@@ -1,0 +1,83 @@
+{
+  "zip": "C:\\Users\\Ray\\Desktop\\tech-arena\\run4-v040-review-20261020T202902Z.zip",
+  "file_count": 11,
+  "files": [
+    {
+      "path": "run4-v040-review-20261020T202902Z/comparison_report.md",
+      "size": 1316,
+      "sha256": "b8953edc01515c39ce7d47e688ee24925b5169319657bbd9e63ea395d541720d",
+      "zip_sha256": "b8953edc01515c39ce7d47e688ee24925b5169319657bbd9e63ea395d541720d",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/evidence/emulator-7d85d9fd06284e668fdd230853b18db4.log",
+      "size": 121695,
+      "sha256": "1b8ccd1c70aa6500d9e23bcb1e2db89c05f56b2315a1a015fdf13f08e4da0f02",
+      "zip_sha256": "1b8ccd1c70aa6500d9e23bcb1e2db89c05f56b2315a1a015fdf13f08e4da0f02",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/evidence/events-20261020T202902Z.jsonl",
+      "size": 2385865,
+      "sha256": "a00bc9d7c66da8e31a19cd60f637649368cf7df1433494e2ac0d8a6a09500913",
+      "zip_sha256": "a00bc9d7c66da8e31a19cd60f637649368cf7df1433494e2ac0d8a6a09500913",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/evidence/score_report.json",
+      "size": 2914,
+      "sha256": "9f5d3625a5b02f76cf4d9e66f0b12f40b5687d8a6ce65806e790073897a6bb12",
+      "zip_sha256": "9f5d3625a5b02f76cf4d9e66f0b12f40b5687d8a6ce65806e790073897a6bb12",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/evidence/transcript-20261020T202902Z.log",
+      "size": 147345,
+      "sha256": "0fd62f6a26fb00eb2d551a1af0e784d9da912ebf1e5858f08d2b451b4f7edd98",
+      "zip_sha256": "0fd62f6a26fb00eb2d551a1af0e784d9da912ebf1e5858f08d2b451b4f7edd98",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/README.md",
+      "size": 620,
+      "sha256": "e6c9e377fe4e1799f29075c913d2cc0c29dbb804380661afa9ca0baf1d83515a",
+      "zip_sha256": "e6c9e377fe4e1799f29075c913d2cc0c29dbb804380661afa9ca0baf1d83515a",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/strategy/career-controller-SKILL.md",
+      "size": 19791,
+      "sha256": "f0b2138f07144bf0d77e5bf69096c9d39bfae23251a995828ac3527b740db8e4",
+      "zip_sha256": "f0b2138f07144bf0d77e5bf69096c9d39bfae23251a995828ac3527b740db8e4",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/strategy/career-planning-SKILL.md",
+      "size": 15603,
+      "sha256": "22cc2ea1211b6801308cbf3b52e86f0f4a378eff79616e97d0f43c5e4af58373",
+      "zip_sha256": "22cc2ea1211b6801308cbf3b52e86f0f4a378eff79616e97d0f43c5e4af58373",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/strategy/manifest.json",
+      "size": 2995,
+      "sha256": "527d1442d386ca06e919d5302c1c772c3ec31b5d0dea6c237676d764901c1fb5",
+      "zip_sha256": "527d1442d386ca06e919d5302c1c772c3ec31b5d0dea6c237676d764901c1fb5",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/strategy/resource-optimisation-SKILL.md",
+      "size": 8409,
+      "sha256": "0c9cfc0e2da47a95a904149c476435e1391c623696f70d8e9f11fc65367fe31d",
+      "zip_sha256": "0c9cfc0e2da47a95a904149c476435e1391c623696f70d8e9f11fc65367fe31d",
+      "match": true
+    },
+    {
+      "path": "run4-v040-review-20261020T202902Z/strategy/risk-management-SKILL.md",
+      "size": 5209,
+      "sha256": "ae859c195ee133a3363baa6974c6326721e7aeb6c23de445c4b016678745ffcb",
+      "zip_sha256": "ae859c195ee133a3363baa6974c6326721e7aeb6c23de445c4b016678745ffcb",
+      "match": true
+    }
+  ]
+}
