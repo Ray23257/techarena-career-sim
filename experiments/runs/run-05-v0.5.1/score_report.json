@@ -1,0 +1,86 @@
+{
+  "submission_name": "The Raytirement Plan",
+  "submission_dir": "C:\\Users\\Ray\\Desktop\\tech-arena\\starter-kit\\techarena-career-sim\\versions\\v0.5.1-experiment\\solution",
+  "skill_name": "submission-skills",
+  "drive_session_id": "career-sim-runner-ac2c190e2e44",
+  "session_id": "1359058407d94c66848fa447d334dca1",
+  "play_exit_code": 0,
+  "termination_reason": null,
+  "token_usage": {
+    "input_tokens": 40927527,
+    "output_tokens": 83478,
+    "total_tokens": 41011005,
+    "total_cost": 0.0,
+    "by_model": {
+      "deepseek-flash": {
+        "input_tokens": 40927527,
+        "output_tokens": 83478,
+        "total_tokens": 41011005,
+        "total_cost": 0.0
+      }
+    }
+  },
+  "ending_score": {
+    "competition_partial_score": 35.28,
+    "completed": true,
+    "dimensions": [
+      {
+        "label": "Career level",
+        "name": "level",
+        "normalized_score": 40.0,
+        "raw_value": 4.0,
+        "weight": 0.3,
+        "weighted_score": 12.0
+      },
+      {
+        "label": "Total wealth",
+        "name": "wealth",
+        "normalized_score": 22.0,
+        "raw_value": 17.6,
+        "weight": 0.2,
+        "weighted_score": 4.4
+      },
+      {
+        "label": "Health & dignity",
+        "name": "resilience",
+        "normalized_score": 100.0,
+        "raw_value": 20.0,
+        "weight": 0.15,
+        "weighted_score": 15.0
+      },
+      {
+        "label": "Professional skill",
+        "name": "skill",
+        "normalized_score": 66.67,
+        "raw_value": 80.0,
+        "weight": 0.15,
+        "weighted_score": 10.0
+      },
+      {
+        "label": "Risk control",
+        "name": "risk_control",
+        "normalized_score": 30.0,
+        "raw_value": 7.0,
+        "weight": 0.1,
+        "weighted_score": 3.0
+      },
+      {
+        "label": "Workplace network",
+        "name": "network",
+        "normalized_score": 60.0,
+        "raw_value": 36.0,
+        "weight": 0.1,
+        "weighted_score": 6.0
+      }
+    ],
+    "grade": "C",
+    "grade_meaning": "Barely hanging on — not being cut counts as a win; bonus barely covers delivery dinners. Round two starts now.",
+    "outcome": "completed",
+    "quantitative_score": 50.4,
+    "survival_months": 48
+  },
+  "output_dir": "C:\\Users\\Ray\\Desktop\\tech-arena\\starter-kit\\techarena-career-sim\\.career_sim_runner\\career_emu\\outputs\\The Raytirement Plan\\20261021T220734Z",
+  "events_log": "C:\\Users\\Ray\\Desktop\\tech-arena\\starter-kit\\techarena-career-sim\\.career_sim_runner\\career_emu\\outputs\\The Raytirement Plan\\20261021T220734Z\\events-20261021T220734Z.jsonl",
+  "transcript_log": "C:\\Users\\Ray\\Desktop\\tech-arena\\starter-kit\\techarena-career-sim\\.career_sim_runner\\career_emu\\outputs\\The Raytirement Plan\\20261021T220734Z\\transcript-20261021T220734Z.log",
+  "scored_at": "2026-10-21T22:26:45.207914+00:00"
+}
