@@ -6,6 +6,7 @@
 - Quantitative score: 50.40/100
 - Final Level: L4
 - Wealth raw: 17.6
+- Runtime Skill snapshot: [V0.5.1 four-Skill snapshot](../../../versions/v0.5.1-experiment/README.md)
 - Code-change hashes and V0.5.1 strategy context: [implementation audit](../../../reports/v051-implementation-audit.md) and [strategy research](../../../reports/v051-strategy-research.md)
 
 ## Evidence
