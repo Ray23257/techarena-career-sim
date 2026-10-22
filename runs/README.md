@@ -1,6 +1,6 @@
 # Career simulation run archive
 
-This directory stores raw run evidence for comparing strategy versions. Event logs and transcripts are retained as captured; score reports are retained as JSON.
+This directory stores raw run evidence for comparing strategy versions. Event logs and transcripts retain their record content, with line endings normalized to LF during upload; they are not byte-for-byte copies. Score reports are retained as JSON.
 
 ## Runs
 
