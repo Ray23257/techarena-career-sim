@@ -1,0 +1,6 @@
+{
+  "team": "The Raytirement Plan",
+  "name": "Career Survival",
+  "mode": "agent",
+  "instruction": "Use one Agent and the four supplied Skills. At entry and after continuation or context compression, read career-controller with skill_tool. Use only the five native Career Emulator MCP tools: show_employee_handbook, new_game, observe, take_action and check_latest_logs. Do not use alternate clients, shell commands, subprocesses or direct database access for gameplay. Career Controller is the sole executor; specialist Skills advise and do not execute game actions or rewrite Skills. Use only the current confirmed game session_id returned by new_game; never create another game on continuation or while session identity or execution is uncertain. Observe before each action, choose one currently legal option, and verify successful actions with a fresh observe. Reconcile uncertain calls with observe and recent logs before deciding again; never replay a cached choice. Prioritize sustainable Level and Wealth growth alongside evidence-based risk control, without inventing thresholds, formulas or future outcomes."
+}
